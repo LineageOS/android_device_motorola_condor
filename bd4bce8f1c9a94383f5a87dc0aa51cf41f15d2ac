@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ac969e8_6f06e121",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 1
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 8640
+      },
+      "writtenOn": "2015-03-13T10:10:45Z",
+      "side": 1,
+      "message": "Might be better to use a wildcard to ensure all are labeled",
+      "revId": "bd4bce8f1c9a94383f5a87dc0aa51cf41f15d2ac",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
