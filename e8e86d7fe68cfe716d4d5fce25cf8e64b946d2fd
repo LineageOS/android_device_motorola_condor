@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7ac969e8_c09a42c5",
+        "filename": "ramdisk/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 6351
+      },
+      "writtenOn": "2015-03-14T13:41:14Z",
+      "side": 0,
+      "message": "Did you mean to remove this line:\n\nwrite /sys/kernel/boot_adsp/boot 1\n\nin this commit?",
+      "revId": "e8e86d7fe68cfe716d4d5fce25cf8e64b946d2fd",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
