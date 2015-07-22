@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_cdfc8940",
+        "filename": "ramdisk/init.qcom.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 825,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-22T22:44:13Z",
+      "side": 1,
+      "message": "This goes up to cpu1 here, but you are onlining cpu0-3?",
+      "range": {
+        "startLine": 825,
+        "startChar": 39,
+        "endLine": 825,
+        "endChar": 46
+      },
+      "revId": "3160dc3e0464f3b83c8c584a9b9e4750d971197d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
