@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2f7f8d_d5cbbe50",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 292,
+      "author": {
+        "id": 11336
+      },
+      "writtenOn": "2015-11-13T22:20:34Z",
+      "side": 1,
+      "message": "Officially we dont support CDMA WCDMA or EVDO editions but they are around.",
+      "range": {
+        "startLine": 292,
+        "startChar": 71,
+        "endLine": 292,
+        "endChar": 92
+      },
+      "revId": "be382fca9a216f5dca1e75b1e2aa67dc8c0b5f5f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
