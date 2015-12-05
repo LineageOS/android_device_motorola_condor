@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf8cb3f7_f6d61df2",
+        "filename": "sepolicy/file.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-05T03:01:43Z",
+      "side": 1,
+      "message": "Unnecessary edit.",
+      "revId": "f5d07e18241d3be05810da00ee60e8292e42ff02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_b60ad587",
+        "filename": "sepolicy/init_shell.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-05T03:01:43Z",
+      "side": 1,
+      "message": "move that to qti_init_shell",
+      "revId": "f5d07e18241d3be05810da00ee60e8292e42ff02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_9605517d",
+        "filename": "sepolicy/system_server.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-05T03:01:43Z",
+      "side": 1,
+      "message": "Unnecessary edit.",
+      "revId": "f5d07e18241d3be05810da00ee60e8292e42ff02",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
