@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf8cb3f7_962a31e5",
+        "filename": "sepolicy/vold.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-05T03:15:31Z",
+      "side": 1,
+      "message": "Your using wrong macro here. It\u0027s a directory, not file.",
+      "revId": "566f2e11835f41ac4baa39ceaf8e783f995e8f2c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
