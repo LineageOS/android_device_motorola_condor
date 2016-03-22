@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_5287e1d8",
+        "filename": "ramdisk/fstab.qcom",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 14305
+      },
+      "writtenOn": "2016-03-22T04:29:39Z",
+      "side": 1,
+      "message": "512 is recommended for 1gb \n\nhttps://us.codeaurora.org/cgit/quic/la/platform/vendor/qcom/msm8610/commit/?h\u003dLA.BF.1.1\u0026id\u003dc515d381c8403c9f37bf323aed7f5bd8c9f226f7",
+      "range": {
+        "startLine": 16,
+        "startChar": 161,
+        "endLine": 16,
+        "endChar": 170
+      },
+      "revId": "2ae18110f4434e708c94e58cbd8003e9b312fab7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
