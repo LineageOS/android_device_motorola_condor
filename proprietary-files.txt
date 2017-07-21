@@ -8,7 +8,7 @@ etc/acdbdata/Headset_cal.acdb
 etc/acdbdata/Speaker_cal.acdb
 etc/firmware/synaptics-s2316i-13101703-175833-condor.tdat
 etc/firmware/synaptics-s2316t-13101703-175833-condor.tdat
-lib/hw/camera.msm8610.so
+lib/hw/camera.vendor.msm8610.so
 lib/hw/sensors.msm8610.so
 lib/libchromatix_ar0543_common.so
 lib/libchromatix_ar0543_default_video.so
